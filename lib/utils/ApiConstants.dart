@@ -25,7 +25,7 @@ class ApiConstants
   static const String PAYMENT_HISTORY = "paymentHistory.php";
   static const String RESET_PASSWORD = "forgetPassword.php";
   static const String BANNERS = "banners.php";
-  static const String PRIVACY_POLICY = "http://techeor.co.in/agriwagon/privacy_policy.html";
+  static const String PRIVACY_POLICY = "https://techeor.co.in/agriwagon/privacy_policy.html";
   static const String CHECK_AVAILABLE = "check_pincode.php";
   static const String NEW_HOME = "cat_subcat_prod.php";
   static const String VILLAGES = "del_village_list.php";

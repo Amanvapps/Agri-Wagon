@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/home/aduggal/Desktop/tk/enno-store/build/webview_flutter/intermediates/res/merged/release/values-is/values-is.xml",
+            "outputFile": "/home/aduggal/Desktop/tk/Agri-Wagon/build/webview_flutter/intermediates/incremental/mergeReleaseResources/merged.dir/values-is/values-is.xml",
             "map": [
                 {
                     "source": "/home/aduggal/.gradle/caches/transforms-2/files-2.1/6b399c2363bb098ebde1725d903cbda0/core-1.1.0/res/values-is/values-is.xml",
@@ -16,7 +16,7 @@
             ]
         },
         {
-            "outputFile": "/home/aduggal/Desktop/tk/enno-store/build/webview_flutter/intermediates/incremental/mergeReleaseResources/merged.dir/values-is/values-is.xml",
+            "outputFile": "/home/aduggal/Desktop/tk/Agri-Wagon/build/webview_flutter/intermediates/res/merged/release/values-is/values-is.xml",
             "map": [
                 {
                     "source": "/home/aduggal/.gradle/caches/transforms-2/files-2.1/6b399c2363bb098ebde1725d903cbda0/core-1.1.0/res/values-is/values-is.xml",
