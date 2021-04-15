@@ -1,0 +1,4 @@
+#Thu Apr 15 15:00:56 IST 2021
+base.0=/home/aduggal/Desktop/tk/enno-store/build/app/intermediates/transforms/r8/release/0/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
